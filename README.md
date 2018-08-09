@@ -1,6 +1,6 @@
 # BrickFitter
 
-BrickFitter is an FME transformer which fits custom or default bricks to a raster. 
+BrickFitter is a FME transformer which fits custom or default bricks to a raster. 
 A brick can be a shape like a 2x3 matrix, or a tetris L or T or what ever you design.
 Custom bricks is not available yet, but will be a parameter of future design
 
